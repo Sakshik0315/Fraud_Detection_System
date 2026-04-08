@@ -43,6 +43,10 @@ It considers features like:
 * `analysis_model.ipynb` → Model training notebook
 
 ---
+## 📊 Dataset
+
+The dataset used for training the model is not included in this repository due to size/privacy reasons.
+You can use any similar financial transaction dataset or generate synthetic data for testing.
 
 ## ▶️ How to Run Locally
 
